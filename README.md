@@ -1,4 +1,3 @@
-[index (2).html](https://github.com/user-attachments/files/26391225/index.2.html)[Uploading index (2)<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -384,4 +383,4 @@
 
 </body>
 </html>
-.html…]()
+ploading index (2).html…]()
